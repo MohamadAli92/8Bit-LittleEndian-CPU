@@ -83,3 +83,8 @@ The processor:
 |------|--------|
 | Input instruction | `1101_ 00000101_ 00000010` |
 | Processor output | `0100000010100110` |
+
+## **Phase 3**
+
+In this phase, I implemented a Python parser to run code in a code.txt file and save the result into a result.txt file.
+Using this script you can check whether your cpu result is as expected.
